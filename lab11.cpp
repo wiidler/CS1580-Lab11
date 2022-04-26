@@ -15,6 +15,6 @@ int main(){
     MagicSmasher<bool> val2(true, false);
     cout << val2.getSum() << endl;
     MagicSmasher<string> val3("SawsonPawson", "MichaelPichael");
-    cout << val3.getSum();
+    cout << val3.getSum() << endl;
     return 0;
 }
