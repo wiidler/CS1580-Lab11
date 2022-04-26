@@ -5,7 +5,7 @@
 // Assignment: Lab 10
 // Purpose: This program takes uses overloaded functions to output and add stats.
 
-#include "MagicSmasher.h"
+#include "magic.h"
 #include <iostream>
 using namespace std;
 

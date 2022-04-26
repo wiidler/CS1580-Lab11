@@ -1,5 +1,5 @@
-#ifndef MAGICSMASHER_H
-#define MAGICSMASHER_H
+#ifndef MAGIC_H
+#define MAGIC_H
 
 #include <iostream>
 using namespace std;

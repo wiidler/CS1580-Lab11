@@ -1,4 +1,4 @@
-#include "MagicSmasher.h"
+#include "magic.h"
 
 /*****************FUNCTION DEFINITIONS*****************/
 // Constructors
